@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /> -->
 
-<a href="https://github.com/YEDAM2JO/babpasa">1. 냉동볶음밥 생산관리시스템 구현 프로젝트</a> </br></br>
-<a href="https://github.com/heeyaam/lemonmarket">2. 중고거래 웹사이트 구현 프로젝트</a>
+<a href="https://github.com/YEDAM2JO/babpasa">1. 냉동볶음밥 생산관리시스템 구현 </a> </br></br>
+<a href="https://github.com/heeyaam/lemonmarket">2. 중고거래 웹사이트 구현 </a>
 <!--
 **heeyaam/heeyaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
